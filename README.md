@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png)
+
 
 <h1 align="center">Guten Tag 👋, ich bin Herr Ozguven</h1>
 <h3 align="center">FRONTEND WEBENTWICKLER - UI/UX DESIGNER</h3>
