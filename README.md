@@ -1,6 +1,3 @@
-
-
-<h1 align="center">Guten Tag 👋, ich bin Herr Ozguven</h1>
 <h3 align="center">FRONTEND WEBENTWICKLER - UI/UX DESIGNER</h3>
 
 - 🔭 I’m currently working on [meine Website](http://herrozguven.de/)
@@ -11,7 +8,7 @@
 
 - 💬 Ask me about **HTML und CSS**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: ramazanozguven@outlook.com</h3>
 <p align="left">
 </p>
 
